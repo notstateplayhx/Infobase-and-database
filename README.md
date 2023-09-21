@@ -27,6 +27,9 @@ https://docs.google.com/document/d/1kE3_fIx0hEswfX-Dk0CTKRHv1lCWAtLC/edit?usp=dr
 
 **-9) Прикладной уровень-**
 https://docs.google.com/document/d/1m8FRxNG2kKsI0kfmnrJmfbqI6bj9WqZ1/edit?usp=sharing&ouid=100321494548001068973&rtpof=true&sd=true
+
+**-10) Stepik 1.1 - 1.4 Программное обеспечение компьютерных сетей-**
+https://docs.google.com/document/d/10IZExumwtcv32AikfL1eb_q1duGiXJYBc6Zl1ja9Fa8/edit?usp=drivesdk
 ____
 # Ссылка на Stepik:
 https://stepik.org/users/654730418/profile
