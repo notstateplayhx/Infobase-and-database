@@ -34,4 +34,11 @@ ____
 # Ссылка на Stepik:
 https://stepik.org/users/654730418/profile
 ____
+# Практика
+https://drive.google.com/drive/folders/1P2TXLtFvRzX5LXWknbQZfVIXDJCm4fZ0?usp=drive_link
+____
+# Сайт + новелла
+http://playstatewebsite.tilda.ws/autoservice
+https://drive.google.com/file/d/1r05ipJrGrKGpamzIzVyvo9gYnLrc_PZQ/view?usp=sharing 
+____
 **Filatov Denis**
